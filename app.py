@@ -456,4 +456,3 @@ st.divider()
 st.caption(
     "Customer Auto-Renewal Prediction | Gradient Boosting Classifier"
 )
-```
