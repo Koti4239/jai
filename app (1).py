@@ -17,7 +17,7 @@ st.set_page_config(
 )
 
 BASE_DIR = Path(__file__).resolve().parent
-MODEL_PATH = BASE_DIR / "svm_model.pkl"
+MODEL_PATH = BASE_DIR / "gradient_boosting_model.pkl"
 DATASET_PATH = BASE_DIR / "customer_churn_dataset.csv"
 
 # These are the 11 numeric features documented in the supplied project ZIP.
